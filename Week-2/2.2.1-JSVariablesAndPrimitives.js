@@ -1,11 +1,17 @@
 // create a constant variable (const)
+const name = "Sarah";
 
 // create a variable that can be reassigned (let)
+let number = 8
 
 // create three variables and assign them values of different data types (=)
+let string = "string";
+let num = 6;
+let boolean = true;
 
 // print the types of two variables that reference two different data types (typeof)
 // TIP: console.log() prints a value in the console/terminal
+
 
 // change the value referenced by a variable (dynamic typing)
 
