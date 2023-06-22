@@ -21,6 +21,10 @@ console.log(NaN || !"true"); // false
 let age;
 age > 10 ? console.log("full menu") : console.log("kids menu");
 
+let isMinor = age < 18 ? "Can vote" : "Not old enough";
+
+
+
 // Using only logical operators (no comparison operators),
 // write an if statement that prints...
 //  "The number is zero" when num is 0.
