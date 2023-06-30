@@ -26,7 +26,9 @@ console.log(weatherDetails);
 // These are the weather details: Moderate Rain 45 Not Severe
 
 // Accessing the details key, Print another string that references each of the properties contained within details
-currentWeather.details[0] = `Moderate Rain, 45, Not Severe`;
+console.log(
+  `${currentWeather.details[0]} ${currentWeather.details[1]} ${currentWeather.details[2]}`
+);
 
 // Object Activity 2
 // Create an object called 'movie' that has 3 properties
