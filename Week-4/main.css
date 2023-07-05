@@ -1,0 +1,31 @@
+* {
+    
+    background-color:peachpuff;
+    /* font-size: 25px; */
+    color:coral;
+    font-family:fantasy;
+}
+div {
+    border: 10px black; 
+}
+.title {
+    
+}
+/* #header.list {
+   font-style: italic;
+}
+a:hover {
+    color: palevioletred;
+}
+
+.title {
+    padding-left: 500px
+    
+}
+#img {
+   margin: 10px 20px 10px 20px;
+   border-radius: 40px;
+}
+#footer {
+    margin-left: 500px;
+} */
