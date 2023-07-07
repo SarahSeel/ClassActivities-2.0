@@ -1,0 +1,36 @@
+* {
+    margin: 10px 20px 10px 20px;
+    background-color: peachpuff;
+    font-family: fantasy;
+}
+
+body div {
+    padding: 10px 20px 10px 20px;
+    border: dotted 5px palevioletred;
+
+}
+
+.list,
+.title {
+    font-style: italic;
+}
+
+ul>li {
+    font-size: 25px;
+}
+
+#header~li {
+    margin-left: 100%;
+}
+
+a:before {
+    content: "♥";
+}
+
+a:after {
+    content: "♥";
+}
+
+a:hover {
+    color: white;
+}
